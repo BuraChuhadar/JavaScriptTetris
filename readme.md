@@ -1,5 +1,3 @@
-A tetris game written in JavaScript. 
+A tetris game written in JavaScript. Enjoy!
 
-Picture:
-
-![alt text](/example.png "Tetris Game")
+![alt text](/example.gif "Tetris Game")
